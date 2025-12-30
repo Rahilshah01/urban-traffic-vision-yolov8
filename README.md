@@ -58,6 +58,6 @@ The pipeline automatically exports metrics to a CSV and generates a final status
    ```
 3. **Run the analysis:** Place your footage in the ```data/``` folder and run jupyter notebook: 
    ```
-   traffic_main.py
+   traffic_main.ipynb
    ```
 ---
